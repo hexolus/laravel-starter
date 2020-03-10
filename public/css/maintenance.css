@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #343644;
+}
+
+.maintenance {
+  background: url(/images/maintenance.svg?59729343f2a3b8396c6822da4ba3efbe) center center no-repeat;
+  background-size: contain;
+  content: "";
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+}
+

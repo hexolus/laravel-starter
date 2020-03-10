@@ -1,0 +1,12 @@
+// Variables
+@import 'variables';
+@import 'common';
+
+.not-found {
+  background: url(../images/404.svg) center center no-repeat;
+  background-size: contain;
+  content: '';
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+}

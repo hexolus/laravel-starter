@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #343644;
+}
+
+.not-found {
+  background: url(/images/404.svg?2f1db4bc79012b9546860120fc7ef759) center center no-repeat;
+  background-size: contain;
+  content: "";
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+}
+
